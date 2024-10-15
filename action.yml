@@ -53,7 +53,7 @@ inputs:
     required: false
 
 runs:
-  using: node12
+  using: node22
   main: index.js
 
 branding:
